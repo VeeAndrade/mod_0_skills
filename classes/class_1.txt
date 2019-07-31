@@ -1,0 +1,12 @@
+class = kitchen
+Attributes:
+  - food(hash)
+  - clean (boolean)
+  - amount of cooks (integer)
+  - size (float)
+
+Methods:
+  - cooking food would decrease hash values according to what was used.
+  - cleaning at the end of the day would result in true for boolean type.
+  - hiring new cook results in increase of integer attribute.
+  - remodeling kitchen would change size and increase or decrease kitchen float value.
