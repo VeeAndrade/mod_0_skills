@@ -1,0 +1,42 @@
+1. Gain interest in code
+  1.1 Research coding schools
+    1.1.1 Gain interest in Turing
+    1.1.2 Research Turing
+2. Sign up for Try Coding Event
+  2.1 Pay event fee
+    2.1.1 Prepare for event with computer
+    2.1.2 Sign up for codepen
+    2.1.3 Sign up for repl.it
+3. Day of, go to turing school for trycoding event
+  3.1 Go to elevators
+  3.2 press down button
+  3.3 take right and walk to desk
+  3.4 sign in
+  3.5 find comfortable seat
+  3.6 get laptop out
+    3.6.1 connect laptop to wifi
+    3.6.2 open codepen
+    3.6.3 open repl.it
+    3.6.4 wait for instructions
+4. Decide whether Turing is the school for you.
+  4.1 If Turing is for you then...
+    4.2 Apply for Turing
+    4.2.1 Get resume ready to send in
+    4.2.2 Prepare for LSAT question
+    4.2.3 Set aside time to do LSAT questions
+    4.2.4 Do LSAT questions
+  4.1.1 Finish application
+    4.1.1.1 Submit application
+5. Get accepted!
+5.1 Choose start date
+  5.1.1 Accommodate financial duties
+    5.1.1.1 Pay deposit for slot
+      5.1.1.1.1 Sign up for Mod 0
+      5.1.1.1.2 Accommodate schedule to be able to attend sessions
+      5.1.1.1.3 Do homework assignments
+      5.1.1.1.4 Do Mod 0 Capstone
+      5.1.1.1.5 Pass Final assessment
+      5.1.1.1.6 Turn in Mod 0 Capstone
+6. Prepare to go to school
+  6.1 Tie up any loose ends
+    6.2 Good luck!
