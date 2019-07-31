@@ -1,0 +1,12 @@
+class = refrigerator
+Attributes:
+  - food(hash)
+  - temperature (float)
+  - brand (string)
+  - smart fridge? (boolean)
+
+Methods:
+  - add food will increase food hash value
+  - adjust temperature will change float value
+  - when asked tell brand
+  - true or false when asked
