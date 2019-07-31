@@ -1,0 +1,13 @@
+class = refrigerator
+Samsung fridge
+ Attributes:
+ food: {yogurt = 5, tomatoes = 3, lettuce = 1, cheese = 16}
+ temperature: 32
+ brand: "Samsung"
+ smart fridge?: true
+
+Methods:
+food: {yogurt = 6, tomatoes = 7, lettuce = 10, cheese = 32}
+temperature: 54
+brand: "Samsung"
+smart fridge?: true
