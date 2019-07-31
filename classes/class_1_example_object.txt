@@ -1,0 +1,13 @@
+class = kitchen
+Red Robins kitchen is an instance of kitchen
+ Attributes:
+ Food: {patties = 50, tomatoes = 30, lettuce = 15, buns = 100}
+ Clean: false
+ Amount of cooks: 4
+ Size: 15ft * 12ft
+
+Methods:
+Food: {patties = 25, tomatoes = 15, lettuce = 7, buns = 50}
+Clean: True, when cleaned
+amount of cooks: increased when hired
+size: increased to 17ft * 12ft when remodeled 
